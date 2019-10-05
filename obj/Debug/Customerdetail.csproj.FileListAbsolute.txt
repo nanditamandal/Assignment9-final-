@@ -1,0 +1,20 @@
+D:\2nd exam\Customerdetail\bin\Debug\Customerdetail.exe.config
+D:\2nd exam\Customerdetail\bin\Debug\Customerdetail.exe
+D:\2nd exam\Customerdetail\bin\Debug\Customerdetail.pdb
+D:\2nd exam\Customerdetail\obj\Debug\Customerdetail.csprojAssemblyReference.cache
+D:\2nd exam\Customerdetail\obj\Debug\Customerdetail.Customer.resources
+D:\2nd exam\Customerdetail\obj\Debug\Customerdetail.Properties.Resources.resources
+D:\2nd exam\Customerdetail\obj\Debug\Customerdetail.csproj.GenerateResource.cache
+D:\2nd exam\Customerdetail\obj\Debug\Customerdetail.csproj.CoreCompileInputs.cache
+D:\2nd exam\Customerdetail\obj\Debug\Customerdetail.exe
+D:\2nd exam\Customerdetail\obj\Debug\Customerdetail.pdb
+E:\c#\Customerdetail\bin\Debug\Customerdetail.exe.config
+E:\c#\Customerdetail\bin\Debug\Customerdetail.exe
+E:\c#\Customerdetail\bin\Debug\Customerdetail.pdb
+E:\c#\Customerdetail\obj\Debug\Customerdetail.csprojAssemblyReference.cache
+E:\c#\Customerdetail\obj\Debug\Customerdetail.Customer.resources
+E:\c#\Customerdetail\obj\Debug\Customerdetail.Properties.Resources.resources
+E:\c#\Customerdetail\obj\Debug\Customerdetail.csproj.GenerateResource.cache
+E:\c#\Customerdetail\obj\Debug\Customerdetail.csproj.CoreCompileInputs.cache
+E:\c#\Customerdetail\obj\Debug\Customerdetail.exe
+E:\c#\Customerdetail\obj\Debug\Customerdetail.pdb
